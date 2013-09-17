@@ -2,17 +2,22 @@
 	<head>
 		<meta http-equiv="Content-Type"
 		content="text/html; charset=utf-8">
-		<style type="text/css"
-		media="screen">
+		<link rel="stylesheet" href="css/style.css" type="text/css" />
+		<link href='http://fonts.googleapis.com/css?family=Happy+Monkey' rel='stylesheet' type='text/css'>
 		</style>
 		<title>P1 Assignment Derek
 		Deike</title>
 	</head>
 	<body>
+		<div id="wrap">
+		<div>
 		<p>Derek Deike</p>
-		<p>I am raising three boys in San Francisco with my lovely wife, everything else is
-		a pleasant blur. Background in html and css. There is going to be a lot of new
-		material for me in this course. </p>
+		<p>I am raising three boys in San Francisco with my lovely wife and working for UC San Francisco. I support the campus website and other means of communication in the Public Affairs office. DWA15 is going to cover a lot of new ground for me.</p>
 		<p>Created on Sublime Text 2</p>
+	</div>
+		<div id="image">
+			<img src="image.jpg" alt="" width>
+		</div>
+	</div>
 	</body>
 </html>
