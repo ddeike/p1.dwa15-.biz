@@ -15,7 +15,7 @@
 		<p>Created on Sublime Text 2</p>
 	</div>
 		<div id="image">
-			<img src="image.jpg" alt"footer image">
+			<img src="image.jpg" alt "footer image" />
 		</div>
 	</div>
 	</body>
