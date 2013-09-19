@@ -4,8 +4,7 @@
 		content="text/html; charset=utf-8">
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
 		<link href='http://fonts.googleapis.com/css?family=Happy+Monkey' rel='stylesheet' type='text/css'>
-		</style>
-		<title>P1 Assignment Derek
+				<title>P1 Assignment Derek
 		Deike</title>
 	</head>
 	<body>
@@ -16,7 +15,7 @@
 		<p>Created on Sublime Text 2</p>
 	</div>
 		<div id="image">
-			<img src="image.jpg" alt="" width>
+			<img src="image.jpg" >
 		</div>
 	</div>
 	</body>
